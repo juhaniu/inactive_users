@@ -15,4 +15,7 @@ Excludes users:
 - in wheel group
 - root 
 - already locked 
+Works with CentOS/RHEL 6-7
 
+Usage example
+0 8 * * * bash /root/bin/inactive_users.sh
