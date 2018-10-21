@@ -1,4 +1,4 @@
-Check inactive user in jump Linux server (local accounts)
+Check inactive user in Linux jump server (local accounts)
 
 Made this script while faced many environments where there wasn’t LDAP/AD and I wanted to gain info about the inactive account in my jump servers. In my environment this script runs in daily cron and output is read by Zabbix.
 
